@@ -63,7 +63,7 @@ v20.5.0
 
 #### Desktop:
 
-<img width="1792" alt="Screenshot 2023-08-22 at 9 53 17 PM" src="https://github.com/chiraag918/codepen-clone/assets/39455997/f31711aa-7154-4540-bace-df672cdb469d">
+<img width="1792" src="">
 
 <a name="license"></a>
 
