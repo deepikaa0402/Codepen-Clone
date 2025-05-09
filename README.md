@@ -60,11 +60,10 @@ v20.5.0
 
 
 ## Screenshots
-[![Screenshot](screenshot.png)](https://github.com/deepikaa0402/Codepen-Clone/blob/main/src/assets/images/Screenshot-desktop.png)
 
 #### Desktop:
 
-<img width="1792" src="">
+<img width="1792" src="https://github.com/deepikaa0402/Codepen-Clone/blob/main/src/assets/images/Screenshot-desktop.png">
 
 <a name="license"></a>
 
