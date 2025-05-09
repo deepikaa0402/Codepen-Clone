@@ -2,6 +2,11 @@
 
 A responsive CodePen clone built using React. The `@uiw/react-codemirror` package is reponsible for building & customising the code editors. The app is divided into two sections, editor & simulator containers. The editor container consists of 3 editors each for HTML, CSS & JS. The simulator is an iframe view, where the code from the editors, compile down to render website inside it.
 
+## Deployment
+
+You can view the live project at the following link:
+
+[Live Demo](https://codepen-clone-three-psi.vercel.app/)
 
 ## Installation
 
